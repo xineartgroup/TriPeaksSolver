@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TriPeaksSolver\\TriPeaksSolver.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TriPeaksFileCreator\\TriPeaksSolver.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

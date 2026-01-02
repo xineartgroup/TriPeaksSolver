@@ -1,0 +1,8 @@
+Pile:
+J of Diamond, 4 of Diamond, K of Spade, 5 of Diamond, 10 of Spade, K of Heart, 8 of Club, K of Club, 6 of Club, Q of Heart, 7 of Club, Q of Club, 8 of Heart, 2 of Spade, 6 of Heart, 7 of Heart, 5 of Spade, 2 of Club, Q of Spade, 9 of Club, 2 of Diamond, A of Club, 4 of Heart, K of Diamond, 
+
+Board:
+4 of Club  6 of Diamond  9 of Heart  
+5 of Heart  3 of Diamond  3 of Spade  9 of Diamond  9 of Spade  6 of Spade  
+7 of Diamond  10 of Club  A of Spade  J of Heart  8 of Spade  Q of Diamond  3 of Club  A of Diamond  4 of Spade  
+A of Heart  J of Club  7 of Spade  5 of Club  8 of Diamond  10 of Diamond  2 of Heart  J of Spade  3 of Heart  10 of Heart  

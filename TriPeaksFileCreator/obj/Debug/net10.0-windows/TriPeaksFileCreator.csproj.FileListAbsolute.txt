@@ -1,0 +1,17 @@
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\bin\Debug\net10.0-windows\TriPeaksFileCreator.exe
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\bin\Debug\net10.0-windows\TriPeaksFileCreator.deps.json
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\bin\Debug\net10.0-windows\TriPeaksFileCreator.runtimeconfig.json
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\bin\Debug\net10.0-windows\TriPeaksFileCreator.dll
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\bin\Debug\net10.0-windows\TriPeaksFileCreator.pdb
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.csproj.GenerateResource.cache
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.AssemblyInfoInputs.cache
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.AssemblyInfo.cs
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.csproj.CoreCompileInputs.cache
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.dll
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\refint\TriPeaksFileCreator.dll
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.pdb
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.genruntimeconfig.cache
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\ref\TriPeaksFileCreator.dll
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.Properties.Resources.resources
+C:\Users\obinn\source\repos\TriPeaksSolver\TriPeaksFileCreator\obj\Debug\net10.0-windows\TriPeaksFileCreator.TriPeaks.resources
